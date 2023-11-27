@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Ahoy-hoy, I'm Justin👋</h1>
+<h3 align="center">A developer interested in all things programming.</h3>
 
-<!--
-**justinvvitale/justinvvitale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h6 align="center">Languages I use: C#, Python, C++, and HTML/CSS/JS/TS</h6>
+<h6 align="center">Frameworks I use: ASP.NET and Angular</h6>
 
-Here are some ideas to get you started:
+<h6 align="center">Formal qualification: Bachelor of Computer Science</h6>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center">Contact me</h4>
+<p align="center">
+  <a href="www.justvit.com">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
+
+
+<h1 align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=jusvit&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide_rank=true" />
+</h1>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jusvit" alt="jusvit" /> </p>
