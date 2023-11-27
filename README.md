@@ -1,7 +1,7 @@
 <h1 align="center">Ahoy-hoy, I'm Justin👋</h1>
 <h3 align="center">A developer interested in all things programming.</h3>
 <p align="center">
-  <a href="www.justvit.com">
+  <a href="https://www.justvit.com">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
